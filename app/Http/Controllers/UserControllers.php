@@ -15,7 +15,12 @@ class UserController extends Controller
         echo this is show;
     }
     public function add(){
-       echo ;;;;;
-    }
+<<<<<<<<HEAD
+        echo 123;
+============
+        echo ;;;;;
+        22222222222
+        22222222222
+>>>>>>>>>>123456
+   }
 }
-111111111
