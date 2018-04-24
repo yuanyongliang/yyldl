@@ -14,4 +14,7 @@ class UserController extends Controller
     public functon show(){
         echo this is show;
     }
+    public function add(){
+       echo ;;;;;
+    }
 }
