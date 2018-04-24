@@ -11,4 +11,7 @@ class UserController extends Controller
     {
         echo hello laravel;
     }
+    public functon show(){
+        echo this is show;
+    }
 }
